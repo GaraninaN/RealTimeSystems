@@ -1,5 +1,5 @@
 /*
-The model for real tiem systems with
+The model for real time systems with
 the non-preemptive global fixed priority scheduler,
 the preemptive global fixed priority scheduler, 
 the non-preemptive earliest deadline priority scheduler, and 
